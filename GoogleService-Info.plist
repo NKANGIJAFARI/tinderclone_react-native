@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>794965708466-q8k1tm4j84gigmt94f26kgmc0c31433r.apps.googleusercontent.com</string>
+	<string>794965708466-nhvk92tjus7n8v2ns5ufl7oou6tpgab8.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.794965708466-q8k1tm4j84gigmt94f26kgmc0c31433r</string>
+	<string>com.googleusercontent.apps.794965708466-nhvk92tjus7n8v2ns5ufl7oou6tpgab8</string>
 	<key>API_KEY</key>
 	<string>AIzaSyD3JzBc3u1-h0Vy63W0FwkdytIv5WqLNCQ</string>
 	<key>GCM_SENDER_ID</key>
@@ -13,7 +13,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>host.exp.exponent</string>
+	<string>com.nkani.Tinderclone</string>
 	<key>PROJECT_ID</key>
 	<string>tinder-clone-de76d</string>
 	<key>STORAGE_BUCKET</key>
@@ -29,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:794965708466:ios:6f986c7550abc1773503ab</string>
+	<string>1:794965708466:ios:a0c9d2351f476a3a3503ab</string>
 </dict>
 </plist>
