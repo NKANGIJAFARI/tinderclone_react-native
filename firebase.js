@@ -8,14 +8,16 @@ import { getFirestore } from 'firebase/firestore';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: 'AIzaSyBsWibs9rEyzgNaFgHAL-83bZP56Covb9g',
-  authDomain: 'tinder-clone-de76d.firebaseapp.com',
-  projectId: 'tinder-clone-de76d',
-  storageBucket: 'tinder-clone-de76d.appspot.com',
-  messagingSenderId: '794965708466',
-  appId: '1:794965708466:web:73951fe6bb20a9fb3503ab',
+  apiKey: 'AIzaSyDjfAS79JuCl55Djte3ghfwLJrTpYJBqk4',
+  authDomain: 'tinderclone-2afec.firebaseapp.com',
+  projectId: 'tinderclone-2afec',
+  storageBucket: 'tinderclone-2afec.appspot.com',
+  messagingSenderId: '322905100326',
+  appId: '1:322905100326:web:296cbd1619ed30b1f616e7',
 };
 
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
 const auth = getAuth();

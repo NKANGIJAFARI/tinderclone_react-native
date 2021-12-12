@@ -6,9 +6,9 @@ const AuthContext = createContext({});
 export const AuthProvider = ({ children }) => {
   const config = {
     iosClientId:
-      '794965708466-nhvk92tjus7n8v2ns5ufl7oou6tpgab8.apps.googleusercontent.com',
+      '322905100326-kj8ooho6rf5q0kejbsjlut7e0hlq3v16.apps.googleusercontent.com',
     androidClientId:
-      '794965708466-ahgfi5f3gh2k1m0n4qilujfjbf5khfgi.apps.googleusercontent.com',
+      '322905100326-e5i84ij96g8l6q6hkdp76gbpujrgh2e6.apps.googleusercontent.com',
 
     scope: ['profile', 'email'],
     Permissions: ['public_profile', 'email', 'gender', 'location'],
@@ -17,7 +17,7 @@ export const AuthProvider = ({ children }) => {
   const signInWithGoogle = async () => {
     Google.logInAsync(config).then(async (loginResult) => {
       if (loginResult.type === 'success') {
-        //Login ...
+        console.log(loginResult);
       }
     });
   };
