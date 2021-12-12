@@ -8,7 +8,8 @@ export const AuthProvider = ({ children }) => {
     iosClientId:
       '794965708466-nhvk92tjus7n8v2ns5ufl7oou6tpgab8.apps.googleusercontent.com',
     androidClientId:
-      '794965708466-0bs9hrcgr4vll3uole3dekhtlprv96bv.apps.googleusercontent.com',
+      '794965708466-ahgfi5f3gh2k1m0n4qilujfjbf5khfgi.apps.googleusercontent.com',
+
     scope: ['profile', 'email'],
     Permissions: ['public_profile', 'email', 'gender', 'location'],
   };

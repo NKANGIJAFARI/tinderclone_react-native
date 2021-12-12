@@ -7,20 +7,12 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:794965708466:android:27174456dd92999d3503ab",
+        "mobilesdk_app_id": "1:794965708466:android:033844728aa6f79f3503ab",
         "android_client_info": {
-          "package_name": "com.nkani.Tinderclone"
+          "package_name": "host.exp.exponent"
         }
       },
       "oauth_client": [
-        {
-          "client_id": "794965708466-ahgfi5f3gh2k1m0n4qilujfjbf5khfgi.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.nkani.Tinderclone",
-            "certificate_hash": "8c7fbb4a668160b0c92a4edcb9583f7c6977c9ff"
-          }
-        },
         {
           "client_id": "794965708466-0bs9hrcgr4vll3uole3dekhtlprv96bv.apps.googleusercontent.com",
           "client_type": 3
